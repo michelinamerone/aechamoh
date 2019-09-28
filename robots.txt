@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iminohhai.axegon.com/sitemap.xml
